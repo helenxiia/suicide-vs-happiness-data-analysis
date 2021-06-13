@@ -1,7 +1,3 @@
-#Created by Helen Xia
-#File I/O Assignment 2019 (Data Structure #2)
-#Ms. Quesnelle ICS4U
-
 import csv
 import math
 
